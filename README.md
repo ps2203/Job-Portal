@@ -45,7 +45,7 @@ The **Job Portal** is a full-stack web application that connects job seekers wit
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/job-portal-mern.git
+   git clone https://github.com/ps2203/Job-Portal.git
 ````
 
 2. **Install Backend Dependencies**:
@@ -169,5 +169,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 6. **Folder Structure** - Shows the layout of the project files for better organization.
 7. **Contributing** - Instructions for other developers to contribute to the project.
 8. **License** - Licensing details for the project.
+
 
 
